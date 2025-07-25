@@ -16,12 +16,6 @@ This app allows users to manage their daily tasks efficiently with features like
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
