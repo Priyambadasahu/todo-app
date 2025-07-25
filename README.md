@@ -3,8 +3,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View the App](https://priyambadasahu.github.io/todo-app/)  
-*(Ensure GitHub Pages is enabled in the repo settings)*
+👉 [Click Here to View the App](https://priyambadasahu.github.io/todo-app/) 
 
 ---
 
@@ -12,7 +11,7 @@
 
 **Priyambada Sahu**  
 💼 [LinkedIn](https://www.linkedin.com/in/priyambada-sahu/)  
-📫 priyambadasahu@email.com *(replace with your actual email)*
+📫 priyambadasahu.tech@gmail.com
 
 ---
 
